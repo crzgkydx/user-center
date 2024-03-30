@@ -1,7 +1,7 @@
 package com.yupi.usercenter;
 
 import com.yupi.usercenter.Mapper.UserMapper;
-import com.yupi.usercenter.model.User;
+import com.yupi.usercenter.model.domain.User;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
